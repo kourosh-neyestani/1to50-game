@@ -9,7 +9,7 @@ import './style.scss';
 function Game1to50() {
 
     const start = 1;
-    const end = 10;
+    const end = 50;
     const level = 2;
     const step = 1;
 
